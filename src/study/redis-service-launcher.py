@@ -3,6 +3,7 @@ import subprocess
 
 
 def TestPopen():
+    '''直接调用dir命令 shell = True是必须的'''
     import subprocess
     p = subprocess.Popen("dir", shell=True)
 

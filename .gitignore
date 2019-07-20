@@ -1,2 +1,4 @@
 out
 node_modules
+dump.rdb
+server_log.txt
