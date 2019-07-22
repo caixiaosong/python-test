@@ -1,7 +1,0 @@
-[3880] 14 Jul 22:25:53.045 * Redis 3.2.100 (00000000/0) 64 bit, standalone mode, port 6379, pid 3880 ready to start.
-[3880] 14 Jul 22:25:53.045 # Server started, Redis version 3.2.100
-[3880] 14 Jul 22:25:53.045 * The server is now ready to accept connections on port 6379
-[3880] 14 Jul 22:30:06.843 # User requested shutdown...
-[3880] 14 Jul 22:30:06.843 * Saving the final RDB snapshot before exiting.
-[3880] 14 Jul 22:30:06.907 * DB saved on disk
-[3880] 14 Jul 22:30:06.907 # Redis is now ready to exit, bye bye...
